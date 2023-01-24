@@ -6,3 +6,6 @@ All posts made by users will be stored on their individual profile.
 - Will place users into a pool of other users that correlates with the results of the test
 Ideas for algorithm to match like users:
 - Similarity percentage score
+
+Potential name ideas: Seek ___
+Potential login page design: Seek ___ with ___ animated to swap out to adjectives/charactertics of champions. e.g. Greatness, success, laughter, etc.

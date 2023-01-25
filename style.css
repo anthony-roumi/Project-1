@@ -11,7 +11,7 @@ body {
   margin: 200px 820px;
   text-align: center;
   box-shadow: 2px 2px 7px rgba(0,0,0,0.15);
-  border-radius: 12px
+  border-radius: 12px;
 }
 
 .label {
@@ -35,10 +35,10 @@ input {
   box-sizing: border-box;
   border: 1px solid #dadada;
   border-radius: 7px;
-  font-family: Trebuchet MS, sans-serif
+  font-family: Trebuchet MS, sans-serif;
 }
 input[type="text"]:focus, input[type="password"]:focus {
-  opacity: 0.5
+  /* can play with user text input */
 }
 
 .login-button {
